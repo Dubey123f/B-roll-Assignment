@@ -59,7 +59,7 @@ An intelligent system that automatically analyzes talking-head (A-roll) videos a
 
 1. Clone the repository:
 ```bash
-git clone <repo-url>
+git clone <https://github.com/Dubey123f/B-roll-Assignment.git>
 cd smart-broll-inserter
 ```
 
